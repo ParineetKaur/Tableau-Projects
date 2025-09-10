@@ -1,0 +1,199 @@
+Facility_No,Hospital_name,Address,City,Zip,long,lat,County,COUNTYFP,No_of_beds,No_of_physicians,Hospitalization_rate
+1,Palestine Regional Medical Center,"2900 S Loop 256,Palestine,TX",Palestine,75801,-95.6280207,31.7327337,Anderson,001,1496,52,46.96%
+2,Methodist Hospital South,"1905 Texas Hwy 97,Jourdanton,TX",Jourdanton,78026,-98.5260352,28.9331124,Atascosa,013,135,52,82.89%
+3,Seton Smithville Regional Hospital,"800 Highway 71 E,Smithville,TX",Smithville,78957,-97.1360218,30.0039505,Bastrop,021,2770,183,42.50%
+4,CHRISTUS Spohn Hospital Beeville,"1500 E Houston Hwy,Beeville,TX",Beeville,78102,-97.731517,28.4075183,Bee,025,2379,101,72.59%
+5,Scott and White Temple Pavillion,"1815 South 31st Street,Temple,TX",Temple,76504,-97.3627292,31.0826238,Bell,027,2958,148,35.46%
+6,Scott & White Continuing Care Hospital,"546 N Kegley Rd,Temple,TX",Temple,76502,-97.39944,31.117809,Bell,027,1470,166,13.66%
+7,Metroplex Hospital,"2201 S Clear Creek Rd,Killeen,TX",Killeen,76549,-97.8007561,31.1132607,Bell,027,2710,76,35.06%
+8,Scott & White Memorial Hospital,"2401 S 31st St,Temple,TX",Temple,76508,-97.3639792,31.0776472,Bell,027,2735,181,22.72%
+11,McLane Children's Hospital Scott & White,"1901 SW H K Dodgen Loop,Temple,TX",Temple,76502,-97.3755467,31.0726368,Bell,027,555,27,34.90%
+12,University Health System Surgery Center,"8300 Floyd Curt Drive,San Antonio,TX",San Antonio,78229,-98.5812018,29.5157508,Bexar,029,1348,59,76.41%
+13,Methodist Stone Oak Hospital,"1139 E Sonterra Blvd,San Antonio,TX",San Antonio,78258,-98.4743864,29.6162229,Bexar,029,1078,144,78.87%
+14,CHRISTUS Santa Rosa Hospital - Westover Hill,"11212 State Highway 151,San Antonio,TX",San Antonio,78251,-98.6963686,29.4668317,Bexar,029,1124,74,30.90%
+15,CHRISTUS Santa Rosa - Alamo Heights,"403 Treeline Park,San Antonio,TX",San Antonio,78209,-98.476144,29.5058195,Bexar,029,1307,189,76.84%
+16,Baptist Emergency Hospital Thousand Oaks,"16088 San Pedro Ave,San Antonio,TX",San Antonio,78232,-98.4734862,29.5878278,Bexar,029,565,57,29.12%
+17,Baptist Emergency Hospital Hausman,"8230 N 1604 W,San Antonio,TX",San Antonio,78249,-98.6491014,29.5709044,Bexar,029,1483,81,32.11%
+18,Baptist Emergency Hospital Westover Hills,"10811 Town Center Dr,San Antonio,TX",San Antonio,78251,-98.6899303,29.4617704,Bexar,029,176,78,83.14%
+19,Baptist Emergency Hospital Overlook,"25615 N Us Hwy 281,San Antonio,TX",San Antonio,78258,-98.4552139,29.6809155,Bexar,029,2766,75,78.10%
+20,Kindred Hospital San Antonio,"3636 Medical Dr,,TX",,78229,-98.5565222,29.5225164,Bexar,029,1884,198,38.32%
+21,Methodist Hospital,"7700 Floyd Curl Dr,San Antonio,TX",San Antonio,78229,-98.5721936,29.5078773,Bexar,029,2314,88,70.74%
+22,Baptist Medical Center,"111 Dallas St,San Antonio,TX",San Antonio,78205,-98.4927788,29.4337636,Bexar,029,390,48,38.26%
+23,Methodist TexSAN Hospital,"6700 W Ih 10,San Antonio,TX",San Antonio,78201,-98.5475403,29.4898203,Bexar,029,675,52,61.68%
+24,St. Luke's Baptist Hospital,"7930 Floyd Curl Dr,San Antonio,TX",San Antonio,78229,-98.5745483,29.5123587,Bexar,029,2722,48,2.62%
+25,Nix Health Care System,"414 Navarro St,San Antonio,TX",San Antonio,78205,-98.4895201,29.4255116,Bexar,029,98,123,7.86%
+26,Methodist Specialty & Transplant Hospital,"8026 Floyd Curl Dr,San Antonio,TX",San Antonio,78229,-98.576149,29.5140654,Bexar,029,1035,138,1.28%
+27,Northeast Methodist Hospital,"12412 Judson Rd,San Antonio,TX",San Antonio,78233,-98.3479862,29.5525384,Bexar,029,2910,55,36.03%
+28,University Health System,"4502 Medical Dr,San Antonio,TX",San Antonio,78229,-98.5774875,29.5071407,Bexar,029,2251,142,96.14%
+29,IASIS Southwest General Hospital,"7400 Barlite Blvd,San Antonio,TX",San Antonio,78224,-98.5454083,29.3532906,Bexar,029,1602,23,86.79%
+30,Metropolitan Methodist Hospital,"1310 McCullough Ave,San Antonio,TX",San Antonio,78212,-98.4910208,29.4408508,Bexar,029,326,102,69.93%
+31,Northeast Baptist Hospital,"8811 Village Dr,San Antonio,TX",San Antonio,78217,-98.429132,29.5200142,Bexar,029,1410,100,62.35%
+32,Mission Trail Baptist Hospital,"3333 Research Plaza,San Antonio,TX",San Antonio,78235,-98.4383449,29.3446085,Bexar,029,68,83,33.12%
+33,North Central Baptist Hospital,"520 Madison Oak Dr,San Antonio,TX",San Antonio,78258,-98.4914012,29.6205416,Bexar,029,1578,47,5.10%
+34,CHRISTUS Santa Rosa Medical Center,"2827 Babcock Rd,San Antonio,TX",San Antonio,78229,-98.5900455,29.5131098,Bexar,029,833,13,74.54%
+35,Methodist Ambulatory Surgery Hospital Northwest,"9150 Huebner Rd,San Antonio,TX",San Antonio,78240,-98.5950259,29.5269961,Bexar,029,2056,186,18.92%
+36,Children's Hospital of San Antonio,"333 N Santa Rosa St,San Antonio,TX",San Antonio,78207,-98.4982673,29.4281027,Bexar,029,660,89,96.93%
+37,Robert B Green Ambulatory Surgery Center,"903 W Martin,San Antonio,TX",San Antonio,78207,-98.5015692,29.4309066,Bexar,029,2406,102,83.00%
+38,Methodist Stone Oak Fertility Surgery Center,"18707 Hardy Oak Blve,San Antonio,TX",San Antonio,78258,-98.4783303,29.6163299,Bexar,029,738,106,35.02%
+39,Wadley Regional Medical Center,"1000 Pine St,Texarkana,TX",Texarkana,75501,-94.0468687,33.4279259,Bowie,037,1690,138,22.96%
+40,CHRISTUS St. Michael Health System,"2600 St Michael Dr,Texarkana,TX",Texarkana,75501,-94.0754547,33.4638683,Bowie,037,942,154,52.33%
+41,CHRISTUS Saint Michael Rehabilitation Hospital,"2400 Saint Michael Dr,Texarkana,TX",Texarkana,75503,-94.070983,33.464425,Bowie,037,2362,87,55.95%
+42,Pearland Medical Center,"11100 Shadow Creek Pkwy,Pearland,TX",Pearland,77584,-95.390408,29.5772333,Brazoria,039,304,198,52.56%
+43,Memorial Hermann - Pearland,"16100 South Freeway,Pearland,TX",Pearland,77584,-95.3888393,29.5637751,Brazoria,039,492,27,73.51%
+44,Brazosport Regional Health System,"100 Medical Dr,Lake Jackson,TX",Lake Jackson,77566,-95.4527189,29.0295851,Brazoria,039,291,100,32.15%
+45,Sweeny Community Hospital,"305 N McKinney St,,TX",,77480,-95.6917378,29.0478738,Brazoria,039,1004,200,57.43%
+46,Angleton Danbury Medical Center,"132 Hospital Dr,Angleton,TX",Angleton,77515,-95.4047155,29.1847443,Brazoria,039,456,93,2.01%
+47,Scott & White College Station Hospital,"700 Scott and White Drive,College Station,TX",College Station,77845,-96.279247,30.5823146,Brazos,041,739,109,81.61%
+48,St. Joseph Regional Health Center,"2801 Franciscan Dr,Bryan,TX",Bryan,77802,-96.346709,30.6559292,Brazos,041,2678,74,91.05%
+49,College Station Medical Center,"1604 Rock Prairie Rd,College Station,TX",College Station,77845,-96.289711,30.5812822,Brazos,041,1230,49,40.01%
+50,Burleson St. Joseph Health Center,"1101 Woodson Dr,Caldwell,TX",Caldwell,77836,-96.7164547,30.5202339,Burleson,051,188,118,61.94%
+51,Baylor Scott & White Hospital - Marble Falls,"810 W Highway 71,Marble Falls,TX",Marble Falls,78654,-98.304654,30.5115117,Burnet,053,644,13,68.21%
+52,Seton Highland Lakes,"Hwy 281 S,Burnet,TX",Burnet,78611,-98.2287597,30.758167,Burnet,053,44,24,19.93%
+53,Memorial Medical Center - Port Lavaca,"815 N Virginia St,Port Lavaca,TX",Port Lavaca,77979,-96.6321635,28.620326,Calhoun,057,1775,33,37.51%
+54,Valley Baptist Medical Center,"2101 Pease St,Harlingen,TX",Harlingen,78550,-97.6705186,26.1746446,Cameron,061,1798,126,37.75%
+55,Harlingen Medical Center,"5501 S Expressway 77,Harlingen,TX",Harlingen,78550,-97.6750857,26.1576482,Cameron,061,576,109,73.76%
+56,Valley Baptist Medical Center - Brownsville,"1040 W Jefferson St,Brownsville,TX",Brownsville,78520,-97.5109748,25.9180366,Cameron,061,1600,92,49.70%
+57,Valley Regional Medical Center,"100A E Alton Gloor Blvd,Brownsville,TX",Brownsville,78526,-97.5146917,25.9783925,Cameron,061,2496,137,28.11%
+58,East Texas Medical Center - Pittsburg,"414 Quitman St,Pittsburg,TX",Pittsburg,75686,-94.9737596,32.9987133,Camp,063,1628,183,96.99%
+59,CHRISTUS St. Michael Hospital Atlanta,"1007 S Williams St,Atlanta,TX",Atlanta,75551,-94.1634445,33.1055893,Cass,067,226,78,16.82%
+60,East Texas Medical Center - Clarksville,"3000 W Main,,TX",,75551,-94.2137619,33.1008997,Cass,067,1282,23,38.90%
+61,Mother Frances Hospital - Jacksonville,"2026 S Jackson St,Jacksonville,TX",Jacksonville,75766,-95.2477966,31.9384049,Cherokee,073,1288,41,13.17%
+62,East Texas Medical Center - Jacksonville,"501 S Ragsdale St,Jacksonville,TX",Jacksonville,75766,-95.270566,31.9602405,Cherokee,073,2249,188,94.84%
+63,Scott & White Ambulatory Surgery Center,"1600 University Dr,,TX",,75013,-96.716831,33.0885328,Collin,085,2615,101,67.86%
+64,Baylor Medical Center at Frisco,"5601 Warren Pkwy,,TX",,75034,-96.8375358,33.1052,Collin,085,1257,93,2.19%
+65,The Heart Hospital of Baylor Plano,"1100 Allied Drive,,TX",,75093,-96.7897247,33.0147787,Collin,085,1471,43,90.23%
+66,Rice Medical Center,"600 S Austin Rd,Eagle Lake,TX",Eagle Lake,77434,-96.3452913,29.5876653,Colorado,089,557,35,11.97%
+67,Resolute Health,"555 Creekside Crossing,New Braunfels,TX",New Braunfels,78130,-98.0695914,29.7206131,Comal,091,1871,86,60.81%
+68,CHRISTUS Santa Rosa Hospital New Braunfels,"600 N Union Ave,New Braunfels,TX",New Braunfels,78130,-98.1231889,29.7153753,Comal,091,1458,128,71.52%
+69,Coryell Memorial Hospital,"1507 W Main St,Gatesville,TX",Gatesville,76528,-97.779125,31.434971,Coryell,099,2524,32,90.21%
+70,Dallas LTACH,"8050 Meadow Rd,,TX",,75231,-96.7673837,32.8869279,Dallas,113,554,69,95.71%
+71,Kindred Hospital White Rock,"9440 Poppy Dr,,TX",,75218,-96.7052017,32.8344592,Dallas,113,2654,51,33.08%
+72,Dallas Regional Medical Center,"1011 N Galloway Ave,Mesquite,TX",Mesquite,75149,-96.6004473,32.7784533,Dallas,113,2910,139,6.78%
+73,South Hampton Community Hospital,"2929 S Hampton Rd,,TX",,75233,-96.8580011,32.714526,Dallas,113,2393,143,3.85%
+74,Baylor University Medical Center,"3500 Gaston Ave,,TX",,75246,-96.7805934,32.7899377,Dallas,113,2466,109,69.08%
+75,Dallas Medical Center,"7 Medical Pkwy,Dallas,TX",Dallas,75234,-96.8699913,32.9154581,Dallas,113,1471,101,46.64%
+76,Kindred Hospital Dallas,"9525 Greenville Ave,,TX",,75243,-96.7488138,32.9054653,Dallas,113,1921,127,98.16%
+77,Baylor Hamilton Heart and Vascular Hospital,"621 N Hall St,,TX",,75146,-96.759367,32.5973895,Dallas,113,1322,118,36.53%
+78,Baylor Medical Center at Carrollton,"4343 N Josey Ln,,TX",,75010,-96.8859593,33.0284435,Denton,121,275,36,88.49%
+79,Eastland Memorial Hospital,"304 S Daugherty Ave,Eastland,TX",Eastland,76448,-98.8210299,32.4000272,Eastland,133,2660,91,58.04%
+80,Odessa Regional Medical Center South Campus,"900 E 4th St,Odessa,TX",Odessa,79761,-102.3595871,31.8516822,Ector,135,1144,148,71.44%
+81,Medical Center Health System,"500 W 4th St,Odessa,TX",Odessa,79761,-102.3736853,31.8452597,Ector,135,848,162,58.38%
+82,Odessa Regional Medical Center,"520 E 6th St,Odessa,TX",Odessa,79761,-102.3651355,31.8513691,Ector,135,267,186,65.32%
+83,Sierra Providence East Medical Center,"3280 Joe Battle Blvd,El Paso,TX",El Paso,79938,-106.2645126,31.7904799,El Paso,141,932,92,35.07%
+84,Hospitals of Providence - Transmountain Campus,"2000 Transmountain Road,El Paso,TX",El Paso,79911,-106.5650364,31.9053405,El Paso,141,1504,101,18.54%
+85,Del Sol Medical Center,"10301 Gateway W,El Paso,TX",El Paso,79925,-106.3495064,31.756534,El Paso,141,2655,142,87.13%
+86,Sierra Medical Center,"1625 Medical Center St,El Paso,TX",El Paso,79902,-106.4808963,31.7776439,El Paso,141,234,61,11.04%
+87,Providence Memorial Hospital,"2001 N Oregon St,El Paso,TX",El Paso,79902,-106.5007988,31.7699879,El Paso,141,2705,184,18.86%
+88,University Medical Center of El Paso,"4815 Alameda Ave,El Paso,TX",El Paso,79905,-106.4344878,31.7714531,El Paso,141,2693,57,93.71%
+89,Las Palmas Medical Center,"1801 N Oregon St,El Paso,TX",El Paso,79902,-106.4990287,31.7699621,El Paso,141,2541,195,60.32%
+90,El Paso Children's Hospital,"4845 Alameda  Ave,El Paso,TX",El Paso,79905,-106.4339462,31.7713503,El Paso,141,1192,118,78.65%
+91,Waxahachie Surgery Center,"1324 Brown Street,,TX",,75165,-96.8327765,32.410088,Ellis,139,1119,93,7.15%
+92,Fort Bend Surgery Center,"14851 Southwest Fwy,Sugar Land,TX",Sugar Land,77478,-95.6082078,29.6102563,Fort Bend,157,1957,58,13.76%
+93,St. Luke's Sugar Land Hospital,"1317 Lake Pointe Pkwy,,TX",,77478,-95.62025,29.604719,Fort Bend,157,1021,133,11.22%
+94,Oakbend Medical Center - William Way Campus,"22003 South West Freeway,Richmond,TX",Richmond,77469,-95.7138677,29.5550873,Fort Bend,157,2820,50,55.59%
+95,Houston Methodist Sugar Land Hospital,"16655 Southwest Fwy,Sugar Land,TX",Sugar Land,77479,-95.6311215,29.5890748,Fort Bend,157,2004,47,37.32%
+96,Memorial Hermann Sugar Land Hospital,"17500 W Grand Pkwy S,Sugar Land,TX",Sugar Land,77479,-95.6899231,29.5648769,Fort Bend,157,1049,90,21.58%
+97,OakBend Medical Center,"1705 Jackson St,Richmond,TX",Richmond,77469,-95.770572,29.576525,Fort Bend,157,611,90,59.82%
+98,Hospital for Surgical Excellence at Oakbend Medical Center,"1211 Hwy 6,Sugar Land,TX",Sugar Land,77478,-95.6361437,29.6051324,Fort Bend,157,2718,39,22.79%
+99,East Texas Medical Center - Mount Vernon,"500 Hwy 37 S,,TX",,75457,-95.2345798,33.1768433,Franklin,159,274,103,2.08%
+100,East Texas Medical Center - Fairfield,"125 Newman St,,TX",,75840,-96.1708793,31.7256143,Freestone,161,428,156,58.42%
+101,Frio Regional Hospital,"200 S IH 35,Pearsall,TX",Pearsall,78061,-99.1097327,28.8881303,Frio,163,49,156,36.41%
+102,Mainland Medical Center,"6801 Emmett F Lowry Expy,Texas City,TX",Texas City,77591,-94.9856691,29.3954621,Galveston,167,800,13,1.24%
+103,The University of Texas Medical Branch,"301 University Blvd,Galveston,TX",Galveston,77550,-94.7758738,29.3107498,Galveston,167,1290,139,3.48%
+104,UTMB League City Campus,"2240 Gulf Fwy S,League City,TX",League City,77573,-95.0990804,29.4809338,Galveston,167,2056,113,74.14%
+105,Peterson Regional Ambulatory Surgery Center,"260 Cully Drive,,TX",,78028,-99.1508907,30.0425899,Gillespie,171,819,15,70.54%
+106,Hill Country Memorial Hospital,"1020 S State Highway 16,Fredericksburg,TX",Fredericksburg,78624,-98.880174,30.262904,Gillespie,171,2918,52,70.11%
+107,Pampa Regional Medical Center,"1 Medical Plz,Pampa,TX",Pampa,79065,-100.9646846,35.5723696,Gray,179,1841,23,99.27%
+108,PSC of Longview Regional Medical Center,"1404 N 4th St,Longview,TX",Longview,75601,-94.7294654,32.5135838,Gregg,183,311,124,85.07%
+109,Longview Regional Medical Center,"2901 N 4th St,Longview,TX",Longview,75605,-94.7301099,32.5328357,Gregg,183,1861,145,10.13%
+110,Grimes St. Joseph Health Center,"210 S Judson St,Navasota,TX",Navasota,77868,-96.0776415,30.3925839,Grimes,185,222,14,31.69%
+111,Baptist Emergency Hospital Schertz,"16977 I-35 N,Schertz,TX",Schertz,78154,-98.2901866,29.5943444,Guadalupe,187,1993,148,58.79%
+112,Seton Edgar B. Davis Hospital,"130 Hays St,Luling,TX",Luling,78648,-97.654459,29.673084,Guadalupe,187,403,80,32.85%
+113,Guadalupe Regional Medical Center,"1215 E Court St,Seguin,TX",Seguin,78155,-97.9465307,29.5680547,Guadalupe,187,51,152,77.73%
+114,Covenant Hospital Plainview,"2601 Dimmit Rd,Plainview,TX",Plainview,79072,-101.7326554,34.2065762,Hale,189,2664,58,57.59%
+115,Victory Surgery Hospital East Houston,"12950 East Freeway,,TX",,77015,-95.2003654,29.7706117,Harris,201,255,138,56.94%
+116,Medical Complex Surgery Center,"13500 Medical Complex Surgery,Tomball,TX",Tomball,77375,-95.626628,30.085343,Harris,201,2280,106,78.10%
+117,Outpatient Center,"5550 Kelley Street,Houston,TX",Houston,77026,-95.3119522,29.8119216,Harris,201,1498,173,35.68%
+118,East Houston Regional Medical Center,"13111 East Fwy,Houston,TX",Houston,77015,-95.1934762,29.7725228,Harris,201,573,140,2.95%
+119,Memorial Hermann Cypress Hospital,"27700 Northwest Freeway,Cypress,TX",Cypress,77433,-95.7317718,29.9863914,Harris,201,748,69,2.67%
+120,Houston Methodist West Hospital,"18500 Katy Fwy,Houston,TX",Houston,77094,-95.6977245,29.7872447,Harris,201,16,100,20.98%
+121,St Luke's Hospital of the Vintage,"20171 Chasewood Park Dr,,TX",,77070,-95.5674709,29.9893519,Harris,201,727,18,24.10%
+122,St Joseph Medical Center In The Heights,"1917 Ashland St,Houston,TX",Houston,77008,-95.4041813,29.8035807,Harris,201,1359,60,28.69%
+123,Memorial Hermann Northeast Hospital,"18951 Memorial N,Humble,TX",Humble,77338,-95.276079,29.9956476,Harris,201,2836,107,52.96%
+124,Kindred Hospital Bay Area,"4801 E Sam Houston Pkwy S,,TX",,77505,-95.161775,29.6392583,Harris,201,2740,59,16.37%
+125,Memorial Hermann Southwest Hospital,"7600 Beechnut St,Houston,TX",Houston,77074,-95.5223629,29.6930168,Harris,201,2541,95,84.87%
+126,Houston Methodist San Jacinto Hospital,"4401 Garth Rd,Baytown,TX",Baytown,77521,-94.9796029,29.7691568,Harris,201,2050,12,89.92%
+127,Memorial Hermann Memorial City Medical Center,"921 N Gessner Dr,Houston,TX",Houston,77024,-95.5467233,29.9532931,Harris,201,1493,139,22.35%
+128,Memorial Hermann - Texas Medical Center,"6411 Fannin St,Houston,TX",Houston,77030,-95.3963819,29.7138126,Harris,201,2307,84,77.56%
+129,Houston Methodist St Catherine Hospital,"701 S Fry Rd,Katy,TX",Katy,77450,-95.7169845,29.7768354,Harris,201,2928,162,46.56%
+130,St. Joseph Medical Center,"1919 La Branch St,Houston,TX",Houston,77002,-95.3658629,29.7470094,Harris,201,1491,71,85.50%
+131,Houston Methodist Willowbrook Hospital,"18220 Tomball Parkway,Houston,TX",Houston,77070,-95.5507153,29.966903,Harris,201,872,174,61.04%
+132,Bayshore Medical Center,"4000 Spencer Hwy,Pasadena,TX",Pasadena,77504,-95.1837849,29.6611026,Harris,201,328,94,28.66%
+133,West Houston Medical Center,"12141 Richmond Ave,Houston,TX",Houston,77082,-95.5947219,29.7294486,Harris,201,2992,88,24.97%
+134,Houston Northwest Medical Center,"710 F M 1960 W,Houston,TX",Houston,77090,-95.4425602,30.0204601,Harris,201,565,157,32.73%
+135,Baylor-St. Luke's Medical Center,"6720 Bertner St,,TX",,77030,-95.4006224,29.7077057,Harris,201,1511,48,53.93%
+136,Tomball Regional Medical Center,"605 Holderrieth St,Tomball,TX",Tomball,77375,-95.6236173,30.0874048,Harris,201,1337,133,68.21%
+137,Park Plaza Hospital and Medical Center,"1313 Hermann Dr,Houston,TX",Houston,77004,-95.3875429,29.72272,Harris,201,2354,113,73.29%
+138,Cypress Fairbanks Medical Center,"10655 Steepletop Dr,Houston,TX",Houston,77065,-95.5896443,29.9274997,Harris,201,2312,144,75.57%
+139,St. Luke's Patients Medical Center,"4600 E Sam Houston Pkwy S,Pasadena,TX",Pasadena,77505,-95.1622681,29.6411341,Harris,201,917,123,4.09%
+140,Memorial Hermann Katy Hospital,"23900 Katy Fwy,Katy,TX",Katy,77494,-95.7863342,29.7874335,Harris,201,1263,50,22.74%
+141,University General Hospital,"7501 Fannin St,,TX",,77054,-95.4007451,29.6925858,Harris,201,2632,40,75.89%
+142,Houston Methodist Hospital,"6565 Fannin St,Houston,TX",Houston,77030,-95.3997225,29.7099079,Harris,201,899,173,86.97%
+143,Houston Methodist St John Hospital,"18300 Saint John Dr,Houston,TX",Houston,77058,-95.0867124,29.549376,Harris,201,1447,101,83.70%
+144,Clear Lake Regional Medical Center,"500 Medical Center Blvd,Webster,TX",Webster,77598,-95.1277956,29.5410993,Harris,201,2310,134,39.11%
+145,United Memorial Medical Center,"510 W Tidwell Rd,Houston,TX",Houston,77091,-95.4080651,29.8473774,Harris,201,124,21,71.30%
+146,Kingwood Medical Center,"22999 US Hwy 59 N,Kingwood,TX",Kingwood,77339,-95.2548122,30.0500672,Harris,201,715,154,93.50%
+147,Memorial Hermann Southeast Hospital,"11800 Astoria Blvd,Houston,TX",Houston,77089,-95.207877,29.582251,Harris,201,1715,88,58.16%
+148,Ben Taub General Hospital,"1504 Taub Loop,Houston,TX",Houston,77030,-95.3937915,29.7106453,Harris,201,185,141,3.70%
+149,Memorial Hermann Northwest Hospital,"1635 N Loop W,Houston,TX",Houston,77008,-95.430426,29.8115414,Harris,201,2585,132,75.15%
+150,Lyndon B. Johnson General Hospital,"5656 Kelley St,Houston,TX",Houston,77026,-95.3124264,29.8116252,Harris,201,585,152,30.22%
+151,Kindred Hospital Houston,"6441 Main St,,TX",,77030,-95.3999157,29.7126322,Harris,201,288,200,45.93%
+152,Kindred Hospital Houston Northwest,"11297 Fallbrook Dr,,TX",,77065,-95.588074,29.924462,Harris,201,64,124,47.73%
+153,The Woman's Hospital of Texas,"7600 Fannin St,Houston,TX",Houston,77054,-95.4020644,29.692992,Harris,201,530,132,64.86%
+154,Memorial Hermann Katy Rehabilitation Hospital,"21720 Kingsland Blvd,Katy,TX",Katy,77450,-95.7460274,29.77621,Harris,201,2178,28,43.16%
+155,TIRR Memorial Hermann,"1333 Moursund St,Houston,TX",Houston,77030,-95.3940422,29.7093621,Harris,201,2005,156,89.07%
+156,Plaza Specialty Hospital,"1300 Binz St,Houston,TX",Houston,77004,-95.3866962,29.723999,Harris,201,890,186,94.32%
+157,Quentin Mease Community Hospital,"3601 N MacGregor Way,Houston,TX",Houston,77004,-95.3596902,29.7112148,Harris,201,475,26,91.13%
+158,Texas Orthopedic Hospital,"7401 S Main St,Houston,TX",Houston,77030,-95.4088921,29.7004947,Harris,201,1013,124,22.53%
+159,Memorial Hermann Orthopedic and Spine Hospital,"5410 West Loop S,Bellaire,TX",Bellaire,77401,-95.4611439,29.7235786,Harris,201,2900,85,6.21%
+160,Texas Children's Hospital - Pavilion for Woman,"6651 Main Street,Houston,TX",Houston,77030,-95.402457,29.7092717,Harris,201,1985,82,33.71%
+161,Texas Children's Hospital,"6621 Fannin St,Houston,TX",Houston,77030,-95.4016041,29.7078462,Harris,201,1025,35,45.19%
+162,Texas Childrens Hospital West Campus,"18200 Katy Fwy,Houston,TX",Houston,77094,-95.6928659,29.7878773,Harris,201,1021,125,67.56%
+163,Metro Ortho and Spine Surgery Center of Oakbend,"4219 Richmond Avenue,Houston,TX",Houston,77027,-95.4453087,29.7321341,Harris,201,2044,16,60.40%
+164,Elite Minimally Invasive Surgery of Oakbend Health,"6655 Travis Street,Houston,TX",Houston,77030,-95.4037313,29.709474,Harris,201,1319,51,61.00%
+165,Houston Methodist St John ASC Nassau Bay,"2020 Nasa Pkwy,Nassau Bay,TX",Nassau Bay,77058,-95.0882583,29.5506724,Harris,201,1920,131,24.68%
+166,UGH Baytown Endoscopy Center,"910 N Highway 146,,TX",,77520,-94.9511569,29.3920061,Harris,201,93,183,50.09%
+167,Memorial Hermann Digestive Disease Center,"6400 Fannin,Houston,TX",Houston,77030,-95.3971455,29.7151107,Harris,201,2962,86,24.53%
+168,Baylor College of Medicine Ambulatory Surgery Center,"1977 Butler Blvd,,TX",,77030,-95.3927281,29.7010334,Harris,201,746,35,73.68%
+169,River Oaks Surgery Center of Oak Bend Health System,"4120 Southwest Freeway,Houston,TX",Houston,77027,-95.4441216,29.7297921,Harris,201,1389,114,76.45%
+170,Good Shepherd Medical Center - Marshall,"811 S Washington Ave,Marshall,TX",Marshall,75670,-94.3691998,32.5370749,Harrison,203,2029,183,39.24%
+171,Seton Medical Center Hays,"6001 Kyle Pkwy,Kyle,TX",Kyle,78640,-97.8531164,30.0084891,Hays,209,1563,89,14.71%
+172,Central Texas Medical Center,"1301 Wonder World Dr,San Marcos,TX",San Marcos,78666,-97.945751,29.8521439,Hays,209,2414,47,44.09%
+173,East Texas Medical Center - Athens,"2000 S Palestine St,Athens,TX",Athens,75751,-95.844688,32.16988,Henderson,213,2818,41,85.99%
+174,Rio Grande Surgery Center,"1809 S Cynthia Street,McAllen,TX",McAllen,78503,-98.2191676,26.1846821,Hidalgo,215,818,166,75.98%
+175,McAllen Heart Hospital,"1900 S D St,McAllen,TX",McAllen,78503,-98.2180775,26.1838055,Hidalgo,215,2531,16,49.83%
+176,Women's Hospital Renaissance,"5502 S McColl Rd,Edinburg,TX",Edinburg,78539,-98.203186,26.25239,Hidalgo,215,185,61,76.71%
+177,McAllen Medical Center,"301 W Expressway 83,McAllen,TX",McAllen,78503,-98.225911,26.186591,Hidalgo,215,1792,154,47.05%
+178,Knapp Medical Center,"1401 E 8th St,Weslaco,TX",Weslaco,78596,-97.9775078,26.1534698,Hidalgo,215,114,70,27.49%
+179,Edinburg Regional Medical Center,"1102 W Trenton Rd,Edinburg,TX",Edinburg,78539,-98.1818253,26.2613094,Hidalgo,215,1509,63,56.85%
+180,Doctors Hospital at Renaissance,"5501 S McColl Rd,Edinburg,TX",Edinburg,78539,-98.2053376,26.2526609,Hidalgo,215,2519,72,16.18%
+181,Rio Grande Regional Hospital,"101 E Ridge Rd,Mc Allen,TX",Mc Allen,78503,-98.2222115,26.1863368,Hidalgo,215,1972,181,80.00%
+182,Mission Regional Medical Center,"900 S Bryan Rd,Mission,TX",Mission,78572,-98.3140935,26.196656,Hidalgo,215,725,189,23.65%
+183,Doctors Hospital at Renaissance Outpatient Surgical Center,"5520 Leonardo Da Vince,Edinburg,TX",Edinburg,78539,-98.2029487,26.2527493,Hidalgo,215,506,194,10.52%
+184,Covenant Hospital-Levelland,"1900 College Ave,Levelland,TX",Levelland,79336,-102.3688507,33.5727585,Hockley,219,1041,183,99.56%
+185,East Texas Medical Center - Crockett,"1100 E Loop 304,,TX",,75835,-95.4383983,31.3238846,Houston,225,1602,163,88.37%
+186,Golden Plains Community Hospital,"200 S McGee St,Borger,TX",Borger,79007,-101.3948177,35.6648322,Hutchinson,233,1625,137,86.01%
+187,CHRISTUS Jasper Memorial Hospital,"1275 Marvin Hancock Dr,Jasper,TX",Jasper,75951,-94.0085087,30.9078435,Jasper,241,141,164,53.10%
+188,The Medical Center of Southeast TX-Victory Campus,"2555 Jimmy Johnson Blvd,Port Arthur,TX",Port Arthur,77640,-93.988752,29.9354166,Jefferson,245,2558,184,67.60%
+189,CHRISTUS Hospital St. Elizabeth,"2830 Calder Ave,Beaumont,TX",Beaumont,77702,-94.1321453,30.086975,Jefferson,245,450,152,71.65%
+190,CHRISTUS Hospital St. Mary,"3600 Gates Blvd,Port Arthur,TX",Port Arthur,77642,-93.9240564,29.9093752,Jefferson,245,283,155,98.11%
+191,The Medical Center of Southeast Texas,"2555 Jimmy Johnson Blvd,Port Arthur,TX",Port Arthur,77640,-93.988752,29.9354166,Jefferson,245,177,174,57.72%
+192,Harbor Hospital of Southeast Texas,"860 S 8th St,,TX",,77701,-94.1252309,30.0694478,Jefferson,245,2811,58,3.23%
+193,Baptist Hospital of Southeast Texas,"3080 College St,Beaumont,TX",Beaumont,77701,-94.1197861,30.0707723,Jefferson,245,2758,16,88.25%
+194,Christus Southeast Texas Orthopedic Institute - St Elizabeth,"3650 Laurel Ave,Beaumont,TX",Beaumont,77707,-94.1396213,30.0832335,Jefferson,245,2634,72,14.83%
+195,CHRISTUS Southeast Texas Outpatient Center Mid County,"8801 9th Avenue,Port Arthur,TX",Port Arthur,77642,-93.9863523,29.9531491,Jefferson,245,2749,19,86.98%
+196,CHRISTUS Spohn Hospital Alice,"2500 E Main St,Alice,TX",Alice,78332,-98.041818,27.7647683,Jim Wells,249,125,177,15.89%
+197,Peterson Regional Medical Center,"551 Hill Country Drive,Kerrville,TX",Kerrville,78028,-99.1524297,30.0439245,Kerr,265,2313,83,17.82%
+198,CHRISTUS Spohn Hospital Kleberg,"1311 General Cavazos Blvd,Kingsville,TX",Kingsville,78363,-97.8508635,27.4901556,Kleberg,273,461,39,45.65%
+199,Knox County Hospital,"701 S 5th St,Knox City,TX",Knox City,79529,-99.811273,33.4137684,Knox,275,2307,133,11.38%
+200,Rollins-Brook Community Hospital,"608 N Key Ave,Lampasas,TX",Lampasas,76550,-98.1863598,31.0724144,Lampasas,281,986,106,46.84%
