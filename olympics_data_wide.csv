@@ -1,0 +1,495 @@
+Athlete,Country,Sex,Sport,Age,Gold,Silver,Bronze,Total
+Torah Bright,Australia,Female,Snowboarding,27,0,1,0,1
+David Morris,Australia,Male,Freestyle Skiing,29,0,1,0,1
+Lydia Ierodiaconou-Lassila,Australia,Female,Freestyle Skiing,32,0,0,1,1
+Anna Fenninger,Austria,Female,Alpine Skiing,24,1,1,0,2
+Nicole Hosp,Austria,Female,Alpine Skiing,30,0,1,1,2
+Dominik Landertinger,Austria,Male,Biathlon,26,0,1,1,2
+Julia Dujmovits,Austria,Female,Snowboarding,26,1,0,0,1
+Mario Matt,Austria,Male,Alpine Skiing,34,1,0,0,1
+Matthias Mayer,Austria,Male,Alpine Skiing,23,1,0,0,1
+Thomas Diethart,Austria,Male,Ski Jumping,21,0,1,0,1
+Michael Hayböck,Austria,Male,Ski Jumping,22,0,1,0,1
+Marcel Hirscher,Austria,Male,Alpine Skiing,24,0,1,0,1
+Daniela Iraschko-Stolz,Austria,Female,Ski Jumping,30,0,1,0,1
+Andreas Linger,Austria,Male,Luge,32,0,1,0,1
+Wolfgang Linger,Austria,Male,Luge,31,0,1,0,1
+Thomas Morgenstern,Austria,Male,Ski Jumping,27,0,1,0,1
+Marlies Schild,Austria,Female,Alpine Skiing,32,0,1,0,1
+Gregor Schlierenzauer,Austria,Male,Ski Jumping,24,0,1,0,1
+Christoph Bieler,Austria,Male,Nordic Combined,36,0,0,1,1
+Simon Eder,Austria,Male,Biathlon,30,0,0,1,1
+Bernhard Gruber,Austria,Male,Nordic Combined,31,0,0,1,1
+Benjamin Karl,Austria,Male,Snowboarding,28,0,0,1,1
+Lukas Klapfer,Austria,Male,Nordic Combined,28,0,0,1,1
+Daniel Mesotitsch,Austria,Male,Biathlon,37,0,0,1,1
+Mario Stecher,Austria,Male,Nordic Combined,36,0,0,1,1
+Christoph Sumann,Austria,Male,Biathlon,38,0,0,1,1
+Kathrin Zettel,Austria,Female,Alpine Skiing,27,0,0,1,1
+Darya Domracheva,Belarus,Female,Biathlon,27,3,0,0,3
+Anton Kushnir,Belarus,Male,Freestyle Skiing,29,1,0,0,1
+Alla Tsuper,Belarus,Female,Freestyle Skiing,34,1,0,0,1
+Nadezhda Skardino,Belarus,Female,Biathlon,28,0,0,1,1
+Patrick Chan,Canada,Male,Figure Skating,23,0,2,0,2
+Scott Moir,Canada,Male,Figure Skating,26,0,2,0,2
+Tessa Virtue,Canada,Female,Figure Skating,24,0,2,0,2
+Denny Morrison,Canada,Male,Speed Skating,28,0,1,1,2
+Meghan Agosta,Canada,Female,Ice Hockey,26,1,0,0,1
+Gillian Apps,Canada,Female,Ice Hockey,30,1,0,0,1
+Jamie Benn,Canada,Male,Ice Hockey,24,1,0,0,1
+Patrice Bergeron,Canada,Male,Ice Hockey,28,1,0,0,1
+Alexandre Bilodeau,Canada,Male,Freestyle Skiing,26,1,0,0,1
+Jay Bouwmeester,Canada,Male,Ice Hockey,30,1,0,0,1
+Jeff Carter,Canada,Male,Ice Hockey,29,1,0,0,1
+Sidney Crosby,Canada,Male,Ice Hockey,26,1,0,0,1
+Melodie Daoust,Canada,Female,Ice Hockey,22,1,0,0,1
+Drew Doughty,Canada,Male,Ice Hockey,24,1,0,0,1
+Matt Duchene,Canada,Male,Ice Hockey,23,1,0,0,1
+Justine Dufour-Lapointe,Canada,Female,Freestyle Skiing,19,1,0,0,1
+Laura Fortino,Canada,Female,Ice Hockey,23,1,0,0,1
+Ryan Fry,Canada,Male,Curling,35,1,0,0,1
+Ryan Getzlaf,Canada,Male,Ice Hockey,28,1,0,0,1
+Charles Hamelin,Canada,Male,Short Track Speed Skating,29,1,0,0,1
+Dan Hamhuis,Canada,Male,Ice Hockey,31,1,0,0,1
+E.J. Harnden,Canada,Male,Curling,30,1,0,0,1
+Ryan Harnden,Canada,Male,Curling,27,1,0,0,1
+Jayna Hefford,Canada,Female,Ice Hockey,36,1,0,0,1
+Dara Howell,Canada,Female,Freestyle Skiing,19,1,0,0,1
+Kaillie Humphries,Canada,Female,Bobsleigh,28,1,0,0,1
+Haley Irwin,Canada,Female,Ice Hockey,25,1,0,0,1
+Brad Jacobs,Canada,Male,Curling,28,1,0,0,1
+Brianne Jenner,Canada,Female,Ice Hockey,22,1,0,0,1
+Rebecca Johnston,Canada,Female,Ice Hockey,24,1,0,0,1
+Jennifer Jones,Canada,Female,Curling,39,1,0,0,1
+Duncan Keith,Canada,Male,Ice Hockey,30,1,0,0,1
+Chris Kunitz,Canada,Male,Ice Hockey,34,1,0,0,1
+Charlie Labonté,Canada,Female,Ice Hockey,31,1,0,0,1
+Jocelyne Larocque,Canada,Female,Ice Hockey,25,1,0,0,1
+Kaitlyn Lawes,Canada,Female,Curling,25,1,0,0,1
+Roberto Luongo,Canada,Male,Ice Hockey,34,1,0,0,1
+Patrick Marleau,Canada,Male,Ice Hockey,34,1,0,0,1
+Dawn McEwen,Canada,Female,Curling,33,1,0,0,1
+Meaghan Mikkelson,Canada,Female,Ice Hockey,29,1,0,0,1
+Heather Moyse,Canada,Female,Bobsleigh,35,1,0,0,1
+Rick Nash,Canada,Male,Ice Hockey,29,1,0,0,1
+Jill Officer,Canada,Female,Curling,38,1,0,0,1
+Caroline Ouellette,Canada,Female,Ice Hockey,34,1,0,0,1
+Corey Perry,Canada,Male,Ice Hockey,28,1,0,0,1
+Alex Pietrangelo,Canada,Male,Ice Hockey,24,1,0,0,1
+Marie-Philip Poulin,Canada,Female,Ice Hockey,22,1,0,0,1
+Carey Price,Canada,Male,Ice Hockey,26,1,0,0,1
+Lauriane Rougeau,Canada,Female,Ice Hockey,23,1,0,0,1
+Patrick Sharp,Canada,Male,Ice Hockey,32,1,0,0,1
+Natalie Spooner,Canada,Female,Ice Hockey,23,1,0,0,1
+Martin St. Louis,Canada,Male,Ice Hockey,38,1,0,0,1
+PK Subban,Canada,Male,Ice Hockey,24,1,0,0,1
+Shannon Szabados,Canada,Female,Ice Hockey,27,1,0,0,1
+John Tavares,Canada,Male,Ice Hockey,23,1,0,0,1
+Marielle Thompson,Canada,Female,Freestyle Skiing,21,1,0,0,1
+Jonathan Toews,Canada,Male,Ice Hockey,25,1,0,0,1
+Marc-Édouard Vlasic,Canada,Male,Ice Hockey,26,1,0,0,1
+Jennifer Wakefield,Canada,Female,Ice Hockey,24,1,0,0,1
+Catherine Ward,Canada,Female,Ice Hockey,26,1,0,0,1
+Tara Watchorn,Canada,Female,Ice Hockey,23,1,0,0,1
+Shea Weber,Canada,Male,Ice Hockey,28,1,0,0,1
+Hayley Wickenheiser,Canada,Female,Ice Hockey,35,1,0,0,1
+Marie-Ève Drolet,Canada,Female,Short Track Speed Skating,32,0,1,0,1
+Chloe Dufour-Lapointe,Canada,Female,Freestyle Skiing,22,0,1,0,1
+Meagan Duhamel,Canada,Female,Figure Skating,28,0,1,0,1
+Jessica Hewitt,Canada,Female,Short Track Speed Skating,27,0,1,0,1
+Mikael Kingsbury,Canada,Male,Freestyle Skiing,21,0,1,0,1
+Dominique Maltais,Canada,Female,Snowboarding,33,0,1,0,1
+Valérie Maltais,Canada,Female,Short Track Speed Skating,23,0,1,0,1
+Kirsten Moore-Towers,Canada,Female,Figure Skating,21,0,1,0,1
+Dylan Moscovitch,Canada,Male,Figure Skating,29,0,1,0,1
+Kaetlyn Osmond,Canada,Female,Figure Skating,18,0,1,0,1
+Eric Radford,Canada,Male,Figure Skating,29,0,1,0,1
+Kevin Reynolds,Canada,Male,Figure Skating,23,0,1,0,1
+Mike Riddle,Canada,Male,Freestyle Skiing,27,0,1,0,1
+Kelsey Serwa,Canada,Female,Freestyle Skiing,24,0,1,0,1
+Marianne St-Gelais,Canada,Female,Short Track Speed Skating,23,0,1,0,1
+Charle Cournoyer,Canada,Male,Short Track Speed Skating,22,0,0,1,1
+Jan Hudec,Canada,Male,Alpine Skiing,32,0,0,1,1
+Kim Lamarre,Canada,Female,Freestyle Skiing,25,0,0,1,1
+Mark McMorris,Canada,Male,Snowboarding,20,0,0,1,1
+Han Tianyu,China,Male,Short Track Speed Skating,17,0,1,1,2
+Wu Dajing,China,Male,Short Track Speed Skating,19,0,1,1,2
+Li Jianrou,China,Female,Short Track Speed Skating,27,1,0,0,1
+Zhang Hong,China,Female,Speed Skating,25,1,0,0,1
+Zhou Yang,China,Female,Short Track Speed Skating,22,1,0,0,1
+Fan Kexin,China,Female,Short Track Speed Skating,20,0,1,0,1
+Xu Mengtao,China,Female,Freestyle Skiing,23,0,1,0,1
+Chen Dequan,China,Male,Short Track Speed Skating,18,0,0,1,1
+Jia Zongyang,China,Male,Freestyle Skiing,22,0,0,1,1
+Shi Jingnan,China,Male,Short Track Speed Skating,19,0,0,1,1
+Ivica Kostelić,Croatia,Male,Alpine Skiing,34,0,1,0,1
+Ondřej Moravec,Czech Republic,Male,Biathlon,29,0,2,1,3
+Martina Sáblíková,Czech Republic,Female,Speed Skating,26,1,1,0,2
+Gabriela Soukalová,Czech Republic,Female,Biathlon,24,0,2,0,2
+Jaroslav Soukup,Czech Republic,Male,Biathlon,31,0,1,1,2
+Eva Samková,Czech Republic,Female,Snowboarding,20,1,0,0,1
+Veronika Vitková,Czech Republic,Female,Biathlon,25,0,1,0,1
+Kerttu Niskanen,Finland,Female,Cross Country Skiing,25,0,2,0,2
+Aino-Kaisa Saarinen,Finland,Female,Cross Country Skiing,35,0,2,0,2
+Sami Jauhojärvi,Finland,Male,Cross Country Skiing,32,1,0,0,1
+Iivo Niskanen,Finland,Male,Cross Country Skiing,22,1,0,0,1
+Anne Kyllönen,Finland,Female,Cross Country Skiing,26,0,1,0,1
+Krista Lähteenmäki,Finland,Female,Cross Country Skiing,23,0,1,0,1
+Enni Rukajärvi,Finland,Female,Snowboarding,23,0,1,0,1
+Juhamatti Aaltonen,Finland,Male,Ice Hockey,28,0,0,1,1
+Aleksander Barkov,Finland,Male,Ice Hockey,18,0,0,1,1
+Mikael Granlund,Finland,Male,Ice Hockey,21,0,0,1,1
+Juuso Hietanen,Finland,Male,Ice Hockey,28,0,0,1,1
+Jarkko Immonen,Finland,Male,Ice Hockey,31,0,0,1,1
+Jussi Jokinen,Finland,Male,Ice Hockey,30,0,0,1,1
+Olli Jokinen,Finland,Male,Ice Hockey,35,0,0,1,1
+Leo Komarov,Finland,Male,Ice Hockey,27,0,0,1,1
+Petri Kontiola,Finland,Male,Ice Hockey,29,0,0,1,1
+Lauri Korpikoski,Finland,Male,Ice Hockey,27,0,0,1,1
+Lasse Kukkonen,Finland,Male,Ice Hockey,32,0,0,1,1
+Jori Lehterä,Finland,Male,Ice Hockey,26,0,0,1,1
+Kari Lehtonen,Finland,Male,Ice Hockey,30,0,0,1,1
+Sami Lepistö,Finland,Male,Ice Hockey,29,0,0,1,1
+Olli Määttä,Finland,Male,Ice Hockey,19,0,0,1,1
+Antti Pihlström,Finland,Male,Ice Hockey,29,0,0,1,1
+Tuukka Rask,Finland,Male,Ice Hockey,26,0,0,1,1
+Tuomo Ruutu,Finland,Male,Ice Hockey,30,0,0,1,1
+Sakari Salminen,Finland,Male,Ice Hockey,25,0,0,1,1
+Sami Salo,Finland,Male,Ice Hockey,39,0,0,1,1
+Teemu Selänne,Finland,Male,Ice Hockey,43,0,0,1,1
+Kimmo Timonen,Finland,Male,Ice Hockey,38,0,0,1,1
+Ossi Väänänen,Finland,Male,Ice Hockey,33,0,0,1,1
+Sami Vatanen,Finland,Male,Ice Hockey,22,0,0,1,1
+Martin Fourcade,France,Male,Biathlon,25,2,1,0,3
+Jean-Frederic Chapuis,France,Male,Freestyle Skiing,24,1,0,0,1
+Pierre Vaultier,France,Male,Snowboarding,26,1,0,0,1
+Arnaud Bovolenta,France,Male,Freestyle Skiing,25,0,1,0,1
+Marie Martinod,France,Female,Freestyle Skiing,29,0,1,0,1
+Steve Missillier,France,Male,Alpine Skiing,29,0,1,0,1
+Jean-Guillaume Beatrix,France,Male,Biathlon,25,0,0,1,1
+Robin Duvillard,France,Male,Cross Country Skiing,30,0,0,1,1
+Jean-Marc Gaillard,France,Male,Cross Country Skiing,33,0,0,1,1
+Maurice Manificat,France,Male,Cross Country Skiing,27,0,0,1,1
+Coline Mattel,France,Female,Ski Jumping,18,0,0,1,1
+Jonathan Midol,France,Male,Freestyle Skiing,26,0,0,1,1
+Ivan Perrillat Boiteux,France,Male,Cross Country Skiing,28,0,0,1,1
+Alexis Pinturault,France,Male,Alpine Skiing,22,0,0,1,1
+Kevin Rolland,France,Male,Freestyle Skiing,24,0,0,1,1
+Chloe Trespeuch,France,Female,Snowboarding,19,0,0,1,1
+Tobias Arlt,Germany,Male,Luge,26,2,0,0,2
+Natalie Geisenberger,Germany,Female,Luge,26,2,0,0,2
+Felix Loch,Germany,Male,Luge,24,2,0,0,2
+Tobias Wendl,Germany,Male,Luge,26,2,0,0,2
+Eric Frenzel,Germany,Male,Nordic Combined,25,1,1,0,2
+Maria Höfl-Riesch,Germany,Female,Alpine Skiing,29,1,1,0,2
+Erik Lesser,Germany,Male,Biathlon Cross Country Skiing,25,0,2,0,2
+Fabian Rießle,Germany,Male,Nordic Combined,23,0,1,1,2
+Severin Freund,Germany,Male,Ski Jumping,25,1,0,0,1
+Marinus Kraus,Germany,Male,Ski Jumping,22,1,0,0,1
+Carina Vogt,Germany,Female,Ski Jumping,22,1,0,0,1
+Andreas Wank,Germany,Male,Ski Jumping,25,1,0,0,1
+Andreas Wellinger,Germany,Male,Ski Jumping,18,1,0,0,1
+Daniel Böhm,Germany,Male,Biathlon,27,0,1,0,1
+Tatjana Hüfner,Germany,Female,Luge,30,0,1,0,1
+Anke Karstens,Germany,Female,Snowboarding,28,0,1,0,1
+Björn Kircheisen,Germany,Male,Nordic Combined,30,0,1,0,1
+Arnd Peiffer,Germany,Male,Biathlon Cross Country Skiing,26,0,1,0,1
+Johannes Rydzek,Germany,Male,Nordic Combined,22,0,1,0,1
+Simon Schempp,Germany,Male,Biathlon,25,0,1,0,1
+Stefanie Böhler,Germany,Female,Cross Country Skiing,32,0,0,1,1
+Nicole Fessel,Germany,Female,Cross Country Skiing,30,0,0,1,1
+Denise Herrmann,Germany,Female,Cross Country Skiing,25,0,0,1,1
+Amelie Kober,Germany,Female,Snowboarding,26,0,0,1,1
+Claudia Künzel-Nystad,Germany,Female,Cross Country Skiing,36,0,0,1,1
+Viktoria Rebensburg,Germany,Female,Alpine Skiing,24,0,0,1,1
+Aljona Sawtchenko,Germany,Female,Figure Skating,30,0,0,1,1
+Robin Szolkowy,Germany,Male,Figure Skating,34,0,0,1,1
+Lizzy Yarnold,Great Britain,Female,Skeleton,25,1,0,0,1
+Scott Andrews,Great Britain,Male,Curling,24,0,1,0,1
+Greg Drummond,Great Britain,Male,Curling,25,0,1,0,1
+Michael Goodfellow,Great Britain,Male,Curling,25,0,1,0,1
+David Murdoch,Great Britain,Male,Curling,35,0,1,0,1
+Vicki Adams,Great Britain,Female,Curling,24,0,0,1,1
+Claire Hamilton,Great Britain,Female,Curling,25,0,0,1,1
+Jenny Jones,Great Britain,Female,Snowboarding,33,0,0,1,1
+Eve Muirhead,Great Britain,Female,Curling,23,0,0,1,1
+Anna Sloan,Great Britain,Female,Curling,22,0,0,1,1
+Arianna Fontana,Italy,Female,Short Track Speed Skating,23,0,1,2,3
+Christof Innerhofer,Italy,Male,Alpine Skiing,29,0,1,1,2
+Lukas Hofer,Italy,Male,Biathlon,24,0,0,1,1
+Carolina Kostner,Italy,Female,Figure Skating,26,0,0,1,1
+Karin Oberhofer,Italy,Female,Biathlon,28,0,0,1,1
+Lucia Peretti,Italy,Female,Short Track Speed Skating,23,0,0,1,1
+Martina Valcepina,Italy,Female,Short Track Speed Skating,21,0,0,1,1
+Elena Viviani,Italy,Female,Short Track Speed Skating,21,0,0,1,1
+Dorothea Wierer,Italy,Female,Biathlon,23,0,0,1,1
+Dominik Windisch,Italy,Male,Biathlon,24,0,0,1,1
+Armin Zöggeler,Italy,Male,Luge,40,0,0,1,1
+Noriaki Kasai,Japan,Male,Ski Jumping,41,0,1,1,2
+Yuzuru Hanyu,Japan,Male,Figure Skating,19,1,0,0,1
+Ayumu Hirano,Japan,Male,Snowboarding,15,0,1,0,1
+Tomoka Takeuchi,Japan,Female,Snowboarding,30,0,1,0,1
+Akito Watabe,Japan,Male,Nordic Combined,25,0,1,0,1
+Taku Hiraoka,Japan,Male,Snowboarding,18,0,0,1,1
+Daiki Ito,Japan,Male,Ski Jumping,28,0,0,1,1
+Ayana Onozuka,Japan,Female,Freestyle Skiing,25,0,0,1,1
+Reruhi Shimizu,Japan,Male,Ski Jumping,20,0,0,1,1
+Taku Takeuchi,Japan,Male,Ski Jumping,26,0,0,1,1
+Denis Ten,Kazakhstan,Male,Figure Skating,20,0,0,1,1
+Andris Šics,Latvia,Male,Luge,28,0,0,2,2
+Juris Šics,Latvia,Male,Luge,30,0,0,2,2
+Daumants Dreiškens,Latvia,Male,Bobsleigh,29,0,1,0,1
+Martins Dukurs,Latvia,Male,Skeleton,29,0,1,0,1
+Oskars Melbārdis,Latvia,Male,Bobsleigh,25,0,1,0,1
+Jānis Strenga,Latvia,Male,Bobsleigh,28,0,1,0,1
+Arvis Vilkaste,Latvia,Male,Bobsleigh,24,0,1,0,1
+Mārtiņš Rubenis,Latvia,Male,Luge,35,0,0,1,1
+Elīza Tīruma,Latvia,Female,Luge,23,0,0,1,1
+Ireen Wüst,Netherlands,Female,Speed Skating,27,2,3,0,5
+Sven Kramer,Netherlands,Male,Speed Skating,27,2,1,0,3
+Jorien ter Mors,Netherlands,Female,Short Track Speed Skating Speed Skating,24,2,0,0,2
+Jan Blokhuijsen,Netherlands,Male,Speed Skating,24,1,1,0,2
+Koen Verweij,Netherlands,Male,Speed Skating,23,1,1,0,2
+Jorrit Bergsma,Netherlands,Male,Speed Skating,28,1,0,1,2
+Michel Mulder,Netherlands,Male,Speed Skating,27,1,0,1,2
+Lotte van Beek,Netherlands,Female,Speed Skating,22,1,0,1,2
+Margot Boer,Netherlands,Female,Speed Skating,28,0,0,2,2
+Stefan Groothuis,Netherlands,Male,Speed Skating,32,1,0,0,1
+Marrit Leenstra,Netherlands,Female,Speed Skating,24,1,0,0,1
+Jan Smeekens,Netherlands,Male,Speed Skating,26,0,1,0,1
+Bob de Jong,Netherlands,Male,Speed Skating,37,0,0,1,1
+Carien Kleibeuker,Netherlands,Female,Speed Skating,35,0,0,1,1
+Sjinkie Knegt,Netherlands,Male,Short Track Speed Skating,24,0,0,1,1
+Ronald Mulder,Netherlands,Male,Speed Skating,27,0,0,1,1
+Marit Bjørgen,Norway,Female,Cross Country Skiing,33,3,0,0,3
+Tora Berger,Norway,Female,Biathlon,32,1,1,1,3
+Tiril Eckhoff,Norway,Female,Biathlon,23,1,0,2,3
+Ole Einar Bjørndalen,Norway,Male,Biathlon,40,2,0,0,2
+Jørgen Graabak,Norway,Male,Nordic Combined,22,2,0,0,2
+Emil Hegle Svendsen,Norway,Male,Biathlon,28,2,0,0,2
+Magnus Moan,Norway,Male,Nordic Combined,30,1,1,0,2
+Ingvild Flugstad Østberg,Norway,Female,Cross Country Skiing,23,1,1,0,2
+Kjetil Jansrud,Norway,Male,Alpine Skiing,28,1,0,1,2
+Magnus Krog,Norway,Male,Nordic Combined,26,1,0,1,2
+Therese Johaug,Norway,Female,Cross Country Skiing,25,0,1,1,2
+Maiken Caspersen Falla,Norway,Female,Cross Country Skiing,23,1,0,0,1
+Ola Vigen Hattestad,Norway,Male,Cross Country Skiing,31,1,0,0,1
+Håvard Klemetsen,Norway,Male,Nordic Combined,35,1,0,0,1
+Ståle Sandbech,Norway,Male,Snowboarding,20,0,1,NA,1
+Anders Bardal,Norway,Male,Ski Jumping,31,0,0,1,1
+Ann Kristin Flatland,Norway,Female,Biathlon,31,0,0,1,1
+Fanny Horn,Norway,Female,Biathlon,25,0,0,1,1
+Henrik Kristoffersen,Norway,Male,Alpine Skiing,19,0,0,1,1
+Kristin Størmer Steira,Norway,Female,Cross Country Skiing,32,0,0,1,1
+Martin Johnsrud Sundby,Norway,Male,Cross Country Skiing,29,0,0,1,1
+Heidi Weng,Norway,Female,Cross Country Skiing,22,0,0,1,1
+Kamil Stoch,Poland,Male,Ski Jumping,26,2,0,0,2
+Zbigniew Bródka,Poland,Male,Speed Skating,29,1,0,1,2
+Justyna Kowalczyk,Poland,Female,Cross Country Skiing,31,1,0,0,1
+Natalia Czerwonka,Poland,Female,Speed Skating,25,0,1,0,1
+Katarzyna Wójcicka-Bachleda-Curuś,Poland,Female,Speed Skating,34,0,1,0,1
+Katarzyna Woźniak,Poland,Female,Speed Skating,24,0,1,0,1
+Luiza Złotkowska,Poland,Female,Speed Skating,27,0,1,0,1
+Konrad Niedźwiedzki,Poland,Male,Speed Skating,29,0,0,1,1
+Jan Szymanski,Poland,Male,Speed Skating,24,0,0,1,1
+Viktor An,Russia,Male,Short Track Speed Skating,28,3,0,1,4
+Maksim Vylegzhanin,Russia,Male,Cross Country Skiing,31,0,3,0,3
+Maksim Trankov,Russia,Male,Figure Skating,30,2,0,0,2
+Tetiana Volosozhar,Russia,Female,Figure Skating,27,2,0,0,2
+Aleksey Voyevoda,Russia,Male,Bobsleigh,33,2,0,0,2
+Vic Wild,Russia,Male,Snowboarding,27,2,0,0,2
+Aleksandr Zubkov,Russia,Male,Bobsleigh,39,2,0,0,2
+Vladimir Grigoryev,Russia,Male,Short Track Speed Skating,31,1,1,0,2
+Fyodor Klimov,Russia,Male,Figure Skating,23,1,1,0,2
+Aleksandr Legkov,Russia,Male,Cross Country Skiing,30,1,1,0,2
+Kseniya Stolbova,Russia,Female,Figure Skating,21,1,1,0,2
+Yelena Ilyinykh,Russia,Female,Figure Skating,19,1,0,1,2
+Nikita Katsalapov,Russia,Male,Figure Skating,22,1,0,1,2
+Albert Demchenko,Russia,Male,Luge,42,0,2,0,2
+Olga Vilukhina,Russia,Female,Biathlon,25,0,2,0,2
+Olga Graf,Russia,Female,Speed Skating,30,0,0,2,2
+Yekaterina Bobrova,Russia,Female,Figure Skating,23,1,0,0,1
+Yuliya Lipnitskaya,Russia,Female,Figure Skating,15,1,0,0,1
+Dmitry Malyshko,Russia,Male,Biathlon,26,1,0,0,1
+Aleksey Negodaylo,Russia,Male,Bobsleigh,24,1,0,0,1
+Yevgeny Plyushchenko,Russia,Male,Figure Skating,31,1,0,0,1
+Anton Shipulin,Russia,Male,Biathlon,26,1,0,0,1
+Adelina Sotnikova,Russia,Female,Figure Skating,17,1,0,0,1
+Dmitry Sovolyov,Russia,Male,Figure Skating,24,1,0,0,1
+Aleksandr Tretyakov,Russia,Male,Skeleton,28,1,0,0,1
+Dmitry Trunenkov,Russia,Male,Bobsleigh,29,1,0,0,1
+Yevgeny Ustyugov,Russia,Male,Biathlon,28,1,0,0,1
+Aleksey Volkov,Russia,Male,Biathlon,25,1,0,0,1
+Semyon Yelistratov,Russia,Male,Short Track Speed Skating,23,1,0,0,1
+Ruslan Zakharov,Russia,Male,Short Track Speed Skating,26,1,0,0,1
+Vladislav Antonov,Russia,Male,Luge,22,0,1,0,1
+Aleksandr Bessmertnykh,Russia,Male,Cross Country Skiing,27,0,1,0,1
+Aleksandr Denisyev,Russia,Male,Luge,22,0,1,0,1
+Olga Fatkulina,Russia,Female,Speed Skating,24,0,1,0,1
+Tatyana Ivanova,Russia,Female,Luge,22,0,1,0,1
+Nikita Kryukov,Russia,Male,Cross Country Skiing,28,0,1,0,1
+Nikolay Olyunin,Russia,Male,Snowboarding,22,0,1,0,1
+Yana Romanova,Russia,Female,Biathlon,30,0,1,0,1
+Yekaterina Shumilova,Russia,Female,Biathlon,27,0,1,0,1
+Dmitry Yaparov,Russia,Male,Cross Country Skiing,28,0,1,0,1
+Olga Zaytseva,Russia,Female,Biathlon,35,0,1,0,1
+Dominique Gisin,Switzerland,Female,Alpine Skiing,28,1,0,0,1
+Mikaela Shiffrin,United States,Female,Alpine Skiing,18,1,0,0,1
+Anastasia Kuzmina,Slovakia,Female,Biathlon,29,1,0,0,1
+Yuliya Dzhyma,Ukraine,Female,Biathlon,23,1,0,0,1
+Olena Pidhrushna,Ukraine,Female,Biathlon,27,1,0,0,1
+Valj Semerenko,Ukraine,Female,Biathlon,28,1,0,0,1
+Selina Gasparin,Switzerland,Female,Biathlon,29,0,1,0,1
+Elana Meyers,United States,Female,Bobsleigh,29,0,1,0,1
+Lauryn Williams,United States,Female,Bobsleigh,30,0,1,0,1
+Emma Wikén,Sweden,Female,Cross Country Skiing,24,1,0,0,1
+Anna Haag,Sweden,Female,Cross Country Skiing,27,1,0,0,1
+Maria Wennerström,Sweden,Female,Curling,28,0,1,0,1
+Christina Bertrup,Sweden,Female,Curling,37,0,1,0,1
+Maria Prytz,Sweden,Female,Curling,37,0,1,0,1
+Margaretha Sigfridsson,Sweden,Female,Curling,38,0,1,0,1
+Yu-Na Kim,South Korea,Female,Figure Skating,23,0,1,0,1
+Maddie Bowman,United States,Female,Freestyle Skiing,20,1,0,0,1
+Devin Logan,United States,Female,Freestyle Skiing,20,0,1,0,1
+Alex Carpenter,United States,Female,Ice Hockey,19,0,1,0,1
+Lee Stecklein,United States,Female,Ice Hockey,19,0,1,0,1
+Michelle Picard,United States,Female,Ice Hockey,20,0,1,0,1
+Kendall Coyne,United States,Female,Ice Hockey,21,0,1,0,1
+Lyndsey Fry,United States,Female,Ice Hockey,21,0,1,0,1
+Amanda Kessel,United States,Female,Ice Hockey,22,0,1,0,1
+Brianna Decker,United States,Female,Ice Hockey,22,0,1,0,1
+Megan Bozek,United States,Female,Ice Hockey,22,0,1,0,1
+Josephine Pucci,United States,Female,Ice Hockey,23,0,1,0,1
+Anne Schleper,United States,Female,Ice Hockey,24,0,1,0,1
+Hilary Knight,United States,Female,Ice Hockey,24,0,1,0,1
+Jocelyne Lamoureux,United States,Female,Ice Hockey,24,0,1,0,1
+Monique Lamoureux,United States,Female,Ice Hockey,24,0,1,0,1
+Molly Schaus,United States,Female,Ice Hockey,25,0,1,0,1
+Gigi Marvin,United States,Female,Ice Hockey,26,0,1,0,1
+Kacey Bellamy,United States,Female,Ice Hockey,26,0,1,0,1
+Kelli Stack,United States,Female,Ice Hockey,26,0,1,0,1
+Meghan Duggan,United States,Female,Ice Hockey,26,0,1,0,1
+Jessie Vetter,United States,Female,Ice Hockey,28,0,1,0,1
+Julie Chu,United States,Female,Ice Hockey,31,0,1,0,1
+Gong Sang-Jeong,South Korea,Female,Short Track Speed Skating,17,1,0,0,1
+Kim A-Lang,South Korea,Female,Short Track Speed Skating,18,1,0,0,1
+Jo Hae-Ri,South Korea,Female,Short Track Speed Skating,27,1,0,0,1
+Noelle Pikus-Pace,United States,Female,Skeleton,31,0,1,0,1
+Patrizia Kummer,Switzerland,Female,Snowboarding,26,1,0,0,1
+Jamie Anderson,United States,Female,Snowboarding,23,1,0,0,1
+Kaitlyn Farrington,United States,Female,Snowboarding,24,1,0,0,1
+Lee Sang-Hwa,South Korea,Female,Speed Skating,24,1,0,0,1
+Lara Gut,Switzerland,Female,Alpine Skiing,22,0,0,1,1
+Julia Mancuso,United States,Female,Alpine Skiing,29,0,0,1,1
+Teja Gregorin,Slovenia,Female,Biathlon,33,0,0,1,1
+Aja Evans,United States,Female,Bobsleigh,25,0,0,1,1
+Jamie Greubel,United States,Female,Bobsleigh,30,0,0,1,1
+Vesna Fabjan,Slovenia,Female,Cross Country Skiing,28,0,0,1,1
+Stina Nilsson,Sweden,Female,Cross Country Skiing,20,0,0,1,1
+Gracie Gold,United States,Female,Figure Skating,18,0,0,1,1
+Ashley Wagner,United States,Female,Figure Skating,22,0,0,1,1
+Marissa Castelli,United States,Female,Figure Skating,23,0,0,1,1
+Anna Holmlund,Sweden,Female,Freestyle Skiing,26,0,0,1,1
+Hannah Kearney,United States,Female,Freestyle Skiing,27,0,0,1,1
+Alina Müller,Switzerland,Female,Ice Hockey,15,0,0,1,1
+Romy Eggimann,Switzerland,Female,Ice Hockey,18,0,0,1,1
+Lara Stalder,Switzerland,Female,Ice Hockey,19,0,0,1,1
+Livia Altmann,Switzerland,Female,Ice Hockey,19,0,0,1,1
+Phoebe Stanz,Switzerland,Female,Ice Hockey,20,0,0,1,1
+Sarah Forster,Switzerland,Female,Ice Hockey,20,0,0,1,1
+Evelina Raselli,Switzerland,Female,Ice Hockey,21,0,0,1,1
+Laura Benz,Switzerland,Female,Ice Hockey,21,0,0,1,1
+Nina Waidacher,Switzerland,Female,Ice Hockey,21,0,0,1,1
+Sandra Thalmann,Switzerland,Female,Ice Hockey,21,0,0,1,1
+Sara Benz,Switzerland,Female,Ice Hockey,21,0,0,1,1
+Anja Stiefel,Switzerland,Female,Ice Hockey,23,0,0,1,1
+Florence Schelling,Switzerland,Female,Ice Hockey,24,0,0,1,1
+Jessica Lutz,Switzerland,Female,Ice Hockey,24,0,0,1,1
+Julia Marty,Switzerland,Female,Ice Hockey,25,0,0,1,1
+Stefanie Marty,Switzerland,Female,Ice Hockey,25,0,0,1,1
+Angela Frautschi,Switzerland,Female,Ice Hockey,26,0,0,1,1
+Nicole Bullo,Switzerland,Female,Ice Hockey,26,0,0,1,1
+Katrin Nabholz,Switzerland,Female,Ice Hockey,27,0,0,1,1
+Erin Hamlin,United States,Female,Luge,27,0,0,1,1
+Yelena Nikitina,Russia,Female,Skeleton,21,0,0,1,1
+Alyona Zavarzina,Russia,Female,Snowboarding,24,0,0,1,1
+Kelly Clark,United States,Female,Snowboarding,30,0,0,1,1
+Yekaterina Lobysheva,Russia,Female,Speed Skating,28,0,0,1,1
+Yekaterina Shikhova,Russia,Female,Speed Skating,28,0,0,1,1
+Yuliya Skokova,Russia,Female,Speed Skating,31,0,0,1,1
+Tina Maze,Slovenia,Female,Alpine Skiing,30,2,0,0,2
+Vita Semerenko,Ukraine,Female,Biathlon,28,1,0,1,2
+Ida Ingemarsdotter,Sweden,Female,Cross Country Skiing,28,1,0,1,2
+Meryl Davis,United States,Female,Figure Skating,27,1,0,1,2
+Charlotte Kalla,Sweden,Female,Cross Country Skiing,26,1,2,0,3
+Shim Seok-Hui,South Korea,Female,Short Track Speed Skating,17,1,1,1,3
+Park Seung-Hui,South Korea,Female,Short Track Speed Skating,21,2,0,1,3
+Sandro Viletta,Switzerland,Male,Alpine Skiing,28,1,0,0,1
+Ted Ligety,United States,Male,Alpine Skiing,29,1,0,0,1
+Andrew Weibrecht,United States,Male,Alpine Skiing,27,0,1,0,1
+Alex Baumann,Switzerland,Male,Bobsleigh,28,0,1,0,1
+Beat Hefti,Switzerland,Male,Bobsleigh,36,0,1,0,1
+Lars Nelson,Sweden,Male,Cross Country Skiing,28,1,0,0,1
+Joss Christensen,United States,Male,Freestyle Skiing,22,1,0,0,1
+David Wise,United States,Male,Freestyle Skiing,23,1,0,0,1
+Gus Kenworthy,United States,Male,Freestyle Skiing,22,0,1,0,1
+Gabriel Landeskog,Sweden,Male,Ice Hockey,21,0,1,0,1
+Oliver Ekman Larsson,Sweden,Male,Ice Hockey,22,0,1,0,1
+Erik Karlsson,Sweden,Male,Ice Hockey,23,0,1,0,1
+Jakob Silfverberg,Sweden,Male,Ice Hockey,23,0,1,0,1
+Marcus Johansson,Sweden,Male,Ice Hockey,23,0,1,0,1
+Marcus Krüger,Sweden,Male,Ice Hockey,23,0,1,0,1
+Gustav Nyquist,Sweden,Male,Ice Hockey,24,0,1,0,1
+Carl Hagelin,Sweden,Male,Ice Hockey,25,0,1,0,1
+Patrik Berglund,Sweden,Male,Ice Hockey,25,0,1,0,1
+Nicklas Bäckström,Sweden,Male,Ice Hockey,26,0,1,0,1
+Niklas Hjalmarsson,Sweden,Male,Ice Hockey,26,0,1,0,1
+Alexander Edler,Sweden,Male,Ice Hockey,27,0,1,0,1
+Loui Eriksson,Sweden,Male,Ice Hockey,28,0,1,0,1
+Alexander Steen,Sweden,Male,Ice Hockey,29,0,1,0,1
+Jonathan Ericsson,Sweden,Male,Ice Hockey,29,0,1,0,1
+Henrik Lundqvist,Sweden,Male,Ice Hockey,31,0,1,0,1
+Johnny Oduya,Sweden,Male,Ice Hockey,32,0,1,0,1
+Daniel Sedin,Sweden,Male,Ice Hockey,33,0,1,0,1
+Henrik Zetterberg,Sweden,Male,Ice Hockey,33,0,1,0,1
+Jimmie Ericsson,Sweden,Male,Ice Hockey,33,0,1,0,1
+Niklas Kronwall,Sweden,Male,Ice Hockey,33,0,1,0,1
+Henrik Tallinder,Sweden,Male,Ice Hockey,35,0,1,0,1
+Daniel Alfredsson,Sweden,Male,Ice Hockey,41,0,1,0,1
+J. R. Celski,United States,Male,Short Track Speed Skating,23,0,1,0,1
+Eddy Alvarez,United States,Male,Short Track Speed Skating,24,0,1,0,1
+Chris Creveling,United States,Male,Short Track Speed Skating,27,0,1,0,1
+Jordan Malone,United States,Male,Short Track Speed Skating,29,0,1,0,1
+Iouri Podladtchikov,Switzerland,Male,Snowboarding,25,1,0,0,1
+Sage Kotsenburg,United States,Male,Snowboarding,20,1,0,0,1
+Nevin Galmarini,Switzerland,Male,Snowboarding,27,0,1,0,1
+Kim Cheol-Min,South Korea,Male,Speed Skating,21,0,1,0,1
+Ju Hyeong-Jun,South Korea,Male,Speed Skating,22,0,1,0,1
+Lee Seung-Hun,South Korea,Male,Speed Skating,25,0,1,0,1
+Bode Miller,United States,Male,Alpine Skiing,36,0,0,1,1
+Yevgeny Garanichev,Russia,Male,Biathlon,25,0,0,1,1
+Chris Fogt,United States,Male,Bobsleigh,30,0,0,1,1
+Curt Tomasevicz,United States,Male,Bobsleigh,33,0,0,1,1
+Ilya Chernousov,Russia,Male,Cross Country Skiing,27,0,0,1,1
+Fredrik Lindberg,Sweden,Male,Curling,28,0,0,1,1
+Niklas Edin,Sweden,Male,Curling,28,0,0,1,1
+Sebastian Kraupp,Sweden,Male,Curling,28,0,0,1,1
+Viktor Kjäll,Sweden,Male,Curling,28,0,0,1,1
+Jason Brown,United States,Male,Figure Skating,19,0,0,1,1
+Simon Shnapir,United States,Male,Figure Skating,26,0,0,1,1
+Jeremy Abbott,United States,Male,Figure Skating,28,0,0,1,1
+Aleksandr Smyshlyayev,Russia,Male,Freestyle Skiing,26,0,0,1,1
+Nick Goepper,United States,Male,Freestyle Skiing,19,0,0,1,1
+Matt Antoine,United States,Male,Skeleton,28,0,0,1,1
+Alex Deibold,United States,Male,Snowboarding,27,0,0,1,1
+Marcus Hellner,Sweden,Male,Cross Country Skiing,28,1,1,0,2
+Johan Olsson,Sweden,Male,Cross Country Skiing,33,1,1,0,2
+Dario Cologna,Switzerland,Male,Cross Country Skiing,27,2,0,0,2
+Daniel Richardsson,Sweden,Male,Cross Country Skiing,31,1,0,1,2
+Teodor Peterson,Sweden,Male,Cross Country Skiing,25,0,1,1,2
+Charlie White,United States,Male,Figure Skating,26,1,0,1,2
+Peter Prevc,Slovenia,Male,Ski Jumping,21,0,1,1,2
+Žan Košir,Slovenia,Male,Snowboarding,29,0,1,1,2
+Steve Langton,United States,Male,Bobsleigh,30,0,0,2,2
+Steve Holcomb,United States,Male,Bobsleigh,33,0,0,2,2
+Emil Jönsson,Sweden,Male,Cross Country Skiing,28,0,0,2,2
