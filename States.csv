@@ -1,0 +1,52 @@
+﻿State,State Abbr,Column,Number of Records,Row
+Hawaii,HI,10,1,10
+Texas,TX,40,1,10
+Florida,FL,90,1,10
+Oklahoma,OK,40,1,20
+Louisiana,LA,50,1,20
+Mississippi,MS,60,1,20
+Alabama,AL,70,1,20
+Georgia,GA,80,1,20
+Arizona,AZ,20,1,30
+New Mexico,NM,30,1,30
+Kansas,KS,40,1,30
+Arkansas,AR,52,1,30
+Tennessee,TN,62,1,30
+North Carolina,NC,72,1,30
+South Carolina,SC,80,1,30
+District of Columbia,DC,90,1,30
+California,CA,10,1,40
+Utah,UT,18,1,40
+Colorado,CO,28,1,40
+Nebraska,NE,38,1,40
+Missouri,MO,50,1,40
+Kentucky,KY,60,1,40
+West Virginia,WV,70,1,40
+Virginia,VA,80,1,40
+Maryland,MD,90,1,40
+Delaware,DE,100,1,40
+Oregon,OR,10,1,50
+Nevada,NV,20,1,50
+Wyoming,WY,30,1,50
+South Dakota,SD,40,1,50
+Iowa,IA,51,1,50
+Indiana,IN,61,1,50
+Ohio,OH,71,1,50
+Pennsylvania,PA,80,1,50
+New Jersey,NJ,90,1,50
+Connecticut,CT,100,1,50
+Rhode Island,RI,110,1,50
+Washington,WA,10,1,60
+Idaho,ID,18,1,60
+Montana,MT,28,1,60
+North Dakota,ND,38,1,60
+Michigan,MI,52,1,60
+Minnesota,MN,52,1,60
+Illinois,IL,62,1,60
+New York,NY,90,1,60
+Massachusetts,MA,100,1,60
+Wisconsin,WI,60,1,70
+Vermont,VT,100,1,70
+New Hampshire,NH,110,1,70
+Alaska,AK,10,1,80
+Maine,ME,110,1,80

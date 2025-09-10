@@ -1,0 +1,52 @@
+﻿Abbreviation,State,"Ten-Year Change, Average Debt Robustness **",% of Graduates Represented  in Usable Data 2004,% of Graduates Represented  in Usable Data 2014,% with Debt 2004,% with Debt 2014,Average Debt 2004,Average Debt 2014,Number of Records,"Ten-Year Change, Average Debt % change, 2004 to 2014"
+DC,District of Columbia,*,0.92,0.63,0.58,,19357,,1,
+ND,North Dakota,*,0.81,0.22,0.73,,22409,,1,
+NM,New Mexico,*,0.14,0.53,,0.48,,18969,1,
+AL,Alabama,Medium,0.71,0.69,0.57,0.54,18042,29425,1,0.63
+CA,California,Medium,0.6,0.86,0.49,0.55,16071,21382,1,0.33
+CT,Connecticut,Medium,0.75,0.86,0.57,0.62,18906,29750,1,0.57
+DE,Delaware,Medium,0.91,0.68,0.45,0.62,14780,33808,1,1.29
+FL,Florida,Medium,0.62,0.72,0.51,0.54,18857,24947,1,0.32
+HI,Hawaii,Medium,0.96,0.57,0.29,0.47,13509,24554,1,0.82
+ID,Idaho,Medium,0.75,0.66,0.68,0.72,22273,26091,1,0.17
+IL,Illinois,Medium,0.81,0.74,0.56,0.67,15650,28984,1,0.85
+KY,Kentucky,Medium,0.63,0.77,0.52,0.64,14250,25939,1,0.82
+ME,Maine,Medium,0.95,0.68,0.64,0.68,19410,30908,1,0.59
+MS,Mississippi,Medium,0.65,0.86,0.6,0.6,15503,26177,1,0.69
+MT,Montana,Medium,0.58,0.93,0.68,0.67,18019,26946,1,0.5
+NE,Nebraska,Medium,0.74,0.65,0.62,0.63,17384,26278,1,0.51
+NY,New York,Medium,0.65,0.71,0.62,0.61,18857,27822,1,0.48
+OR,Oregon,Medium,0.7,0.89,0.63,0.62,17267,26106,1,0.51
+RI,Rhode Island,Medium,0.7,0.81,0.68,0.65,19328,31841,1,0.65
+SC,South Carolina,Medium,0.74,0.79,0.55,0.59,16775,29163,1,0.74
+TN,Tennessee,Medium,0.68,0.84,0.41,0.6,16905,25510,1,0.51
+TX,Texas,Medium,0.73,0.77,0.51,0.59,17170,26250,1,0.53
+VT,Vermont,Medium,0.73,0.81,0.56,0.65,20706,29060,1,0.4
+AK,Alaska,Strong,0.99,0.92,0.48,0.5,15648,26742,1,0.71
+AZ,Arizona,Strong,0.86,0.93,0.48,0.57,18147,22609,1,0.25
+CO,Colorado,Strong,0.85,0.9,0.53,0.56,16352,25064,1,0.53
+GA,Georgia,Strong,0.87,0.83,0.53,0.62,15354,26518,1,0.73
+IA,Iowa,Strong,0.74,0.94,0.76,0.68,24204,29732,1,0.23
+IN,Indiana,Strong,0.87,0.87,0.54,0.61,19425,29222,1,0.5
+KS,Kansas,Strong,0.87,0.87,0.57,0.65,16266,25521,1,0.57
+MA,Massachusetts,Strong,0.77,0.78,0.6,0.65,17021,29391,1,0.73
+MD,Maryland,Strong,0.84,0.76,0.52,0.58,12597,27457,1,1.18
+MI,Michigan,Strong,0.8,0.84,0.58,0.62,18754,29450,1,0.57
+MO,Missouri,Strong,0.79,0.9,0.59,0.59,15511,25844,1,0.67
+NC,North Carolina,Strong,0.88,0.9,0.51,0.61,16863,25218,1,0.5
+NH,New Hampshire,Strong,0.89,0.7,0.65,0.76,21441,33410,1,0.56
+NJ,New Jersey,Strong,0.84,0.78,0.58,0.68,16223,28318,1,0.75
+NV,Nevada,Strong,0.99,0.9,0.46,0.46,14144,20211,1,0.43
+OH,Ohio,Strong,0.8,0.88,0.62,0.67,19182,29353,1,0.53
+OK,Oklahoma,Strong,0.76,0.9,0.55,0.55,16942,23430,1,0.38
+PA,Pennsylvania,Strong,0.77,0.85,0.69,0.7,19556,33264,1,0.7
+SD,South Dakota,Strong,0.9,0.8,0.82,0.69,19023,26023,1,0.37
+UT,Utah,Strong,0.86,0.9,0.43,0.54,12362,18921,1,0.53
+VA,Virginia,Strong,0.97,0.96,0.57,0.6,15831,26432,1,0.67
+WA,Washington,Strong,0.91,0.97,0.56,0.58,17415,24804,1,0.42
+WI,Wisconsin,Strong,0.77,0.89,0.6,0.7,16560,28810,1,0.74
+WV,West Virginia,Strong,0.85,0.83,0.69,0.69,18246,26854,1,0.47
+WY,Wyoming,Strong,1,1,0.44,0.46,15352,23708,1,0.54
+AR,Arkansas,Weak,0.48,0.65,0.59,0.55,16210,25344,1,0.56
+LA,Louisiana,Weak,0.63,0.5,0.61,0.47,18993,23025,1,0.21
+MN,Minnesota,Weak,0.6,0.78,0.72,0.7,19580,31579,1,0.61
