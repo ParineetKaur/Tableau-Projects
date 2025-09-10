@@ -12,6 +12,7 @@ The repository compiles projects and assignments from my Introduction to Data Vi
 
 ## COVID-19 Data Analysis Project 
 The COVID-19 CSV file was too large to be uploaded here, so the project has been [linked HERE on this README](https://drive.google.com/file/d/1W6JPn0z8q-aFxaIxNdEau8-GialEr5aA/view?usp=sharing). 
+
 ---
 
 Thank you for visiting this repository!
