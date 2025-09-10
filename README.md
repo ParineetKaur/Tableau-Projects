@@ -1,5 +1,5 @@
 ## About This Repository 
-The repository compiles projects and assignments from my Introduction to Data Vizualization with Tableau, which covered selected topics from 
+The repository compiles projects and assignments from my Introduction to Data Vizualization with Tableau. 
 
 ## Topics/Concepts Learned 
 1. Data preparation: Importing, integrating, and organizing datasets.
